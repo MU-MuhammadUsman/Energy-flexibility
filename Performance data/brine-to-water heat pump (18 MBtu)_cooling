@@ -6,7 +6,6 @@
 0.75	1	1.25		!	Normalized Source Flow Rate
 10	21.11	32.22	43.33	!	Entering Load Temperatures
 -1.11	10	21.11	32.22	!	Entering Source Temperatures
-
 1.01	0.58			!	Normalized capacity and normalized power at EST(C), ELT(C), normalized source flow, and normalized load flow 
 0.96	0.77				
 0.9	0.95				
@@ -150,4 +149,4 @@
 1.24	0.51				
 1.48	0.68				
 1.71	0.86				
-1.56	1.14				
+1.56	1.14	
