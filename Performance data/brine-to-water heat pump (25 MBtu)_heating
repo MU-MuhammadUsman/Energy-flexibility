@@ -2,6 +2,11 @@
 # Heating performance
 
 
+0.73	1	1.27		!	Normalized Load Flow Rate
+0.73	1	1.27		!	Normalized Source Flow Rate
+15.56	26.67	37.78	48.89	!	Entering Load Temperatures
+-1.11	10	21.11	32.22	!	Entering Source Temperatures
+0.95	0.54			!	Normalized capacity and normalized power at EST(C), ELT(C), normalized source flow, and normalized load flow
 1.26	0.55				
 1.57	0.55				
 1.89	0.57				
