@@ -1,5 +1,5 @@
-YAWS-25 geothermal heat pump (B/WHP)
-Cooling performance
+# YAWS-25 geothermal heat pump (B/WHP)
+# Cooling performance
 0.73	1	1.27		!	Normalized Load Flow Rate
 0.73	1	1.27		!	Normalized Source Flow Rate
 10	21.11	32.22	43.33	!	Entering Load Temperatures
@@ -147,4 +147,4 @@ Cooling performance
 1.13	0.64				
 1.36	0.83				
 1.59	1.01				
-1.59	1.31	
+1.59	1.31
