@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 
 authors:
-- family-names: "Muhammad"
-  given-names: "Usman"
+- family-names: "Usman"
+  given-names: "Muhammad"
 title: "Energy-flexibility"
 version: 1.0.0
 doi: 10.5281/zenodo.7245886
